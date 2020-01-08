@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication11\WindowsAPI\bin\Debug\WinApi.dll
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication11\WindowsAPI\bin\Debug\WinApi.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication11\WindowsAPI\obj\Debug\WinApi.dll
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication11\WindowsAPI\obj\Debug\WinApi.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication11\WindowsAPI\obj\Debug\WindowsAPI.csprojResolveAssemblyReference.cache
