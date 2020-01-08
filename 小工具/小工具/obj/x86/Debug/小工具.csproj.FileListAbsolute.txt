@@ -1,0 +1,9 @@
+C:\Users\77043\Desktop\小工具\小工具\bin\Debug\小工具.exe
+C:\Users\77043\Desktop\小工具\小工具\bin\Debug\小工具.pdb
+C:\Users\77043\Desktop\小工具\小工具\bin\Debug\EPPlus.dll
+C:\Users\77043\Desktop\小工具\小工具\bin\Debug\EPPlus.xml
+C:\Users\77043\Desktop\小工具\小工具\obj\x86\Debug\小工具.Form1.resources
+C:\Users\77043\Desktop\小工具\小工具\obj\x86\Debug\小工具.Properties.Resources.resources
+C:\Users\77043\Desktop\小工具\小工具\obj\x86\Debug\小工具.csproj.GenerateResource.Cache
+C:\Users\77043\Desktop\小工具\小工具\obj\x86\Debug\小工具.exe
+C:\Users\77043\Desktop\小工具\小工具\obj\x86\Debug\小工具.pdb

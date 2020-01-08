@@ -1,0 +1,10 @@
+d:\documents\visual studio 2010\Projects\小工具\小工具\bin\Debug\小工具.exe
+d:\documents\visual studio 2010\Projects\小工具\小工具\bin\Debug\小工具.pdb
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.Form1.resources
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.exe
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.pdb
+d:\documents\visual studio 2010\Projects\小工具\小工具\obj\x86\Debug\小工具.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\小工具\小工具\bin\Debug\EPPlus.dll
+d:\documents\visual studio 2010\Projects\小工具\小工具\bin\Debug\EPPlus.xml
